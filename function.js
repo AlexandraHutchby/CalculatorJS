@@ -1,0 +1,2 @@
+var input = document.getElementById('input'),
+number = document.querySelectorAll(".numbers div"),
